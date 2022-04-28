@@ -1,7 +1,7 @@
 # txt-editor
 A simple text editor in C++, it can write and read txt files
 
-##Usage
+## Usage
 
 To build:
 ```
